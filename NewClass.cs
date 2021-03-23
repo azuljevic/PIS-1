@@ -6,5 +6,6 @@ namespace pis1ana
 {
     class NewClass
     {
+        void fun(){}
     }
 }
